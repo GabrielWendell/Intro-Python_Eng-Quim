@@ -10,16 +10,16 @@ Saber programar é um diferencial para engenheiros de qualquer área. No caso do
 
 ## Cronograma
 Módulo 1
-> - [O que é o Python?]()
-> - [NumPy]()
-> - [Matplotlib]()
+> - [O que é o Python?](https://github.com/GabrielWendell/Intro-Python_Eng-Quim/blob/main/Notebooks/Python.ipynb)
+> - [NumPy](https://github.com/GabrielWendell/Intro-Python_Eng-Quim/blob/main/Notebooks/NumPy.ipynb)
+> - [Matplotlib](https://github.com/GabrielWendell/Intro-Python_Eng-Quim/blob/main/Notebooks/Matplotlib.ipynb)
 
 Módulo 2
-> - [Pandas]()
-> - [Scipy]()
+> - [Pandas](https://github.com/GabrielWendell/Intro-Python_Eng-Quim/blob/main/Notebooks/Pandas.ipynb)
+> - [Scipy](https://github.com/GabrielWendell/Intro-Python_Eng-Quim/blob/main/Notebooks/Scipy.ipynb)
+> - [SciKit-learn](https://github.com/GabrielWendell/Intro-Python_Eng-Quim/blob/main/Notebooks/Scikit-learn.ipynb)
 
 ## Informações gerais
 Os `Notebooks` estão organizados em pastas para uma melhor logística deste minicurso. As pastas são as seguintes:
-- [`Notebooks`](): Pasta contendo os `Notebooks` das aulas.
+- [`Notebooks`](https://github.com/GabrielWendell/Intro-Python_Eng-Quim/tree/main/Notebooks): Pasta contendo os `Notebooks` das aulas.
 - [`Informações`](): Pasta contendo algumas informações importantes relativas ao minicurso.
-- [`Listas`](): Pasta contendo listas de problemas propostos.
