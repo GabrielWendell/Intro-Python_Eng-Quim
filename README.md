@@ -22,4 +22,4 @@ Módulo 2
 ## Informações gerais
 Os `Notebooks` estão organizados em pastas para uma melhor logística deste minicurso. As pastas são as seguintes:
 - [`Notebooks`](https://github.com/GabrielWendell/Intro-Python_Eng-Quim/tree/main/Notebooks): Pasta contendo os `Notebooks` das aulas.
-- [`Informações`](): Pasta contendo algumas informações importantes relativas ao minicurso.
+- [`Informações`](https://github.com/GabrielWendell/Intro-Python_Eng-Quim/tree/main/Informações): Pasta contendo algumas informações importantes relativas ao minicurso.
